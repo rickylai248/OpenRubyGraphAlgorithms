@@ -1,6 +1,6 @@
 # About
 
-Author = brianstorti
+Author: brianstorti
 
 This is some of the code that I wrote while studying some famous graph
 algorithms. Although each directory has a `README` file whith a brief
